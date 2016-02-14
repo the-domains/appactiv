@@ -1,0 +1,28 @@
+name: appactiv
+favicon: null
+layout_spectrum: 0.4989441407378763
+typography_spectrum: 0.25909734913147986
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.568136935820803
+  lightness: 0.5207425877451897
+  saturation: 0.5800291805062443
+  rhythmicContrast: 0.7974774108733982
+purpose: []
